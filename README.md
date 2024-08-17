@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning python, testing and plan to learn laravel <br>🤝 I’m looking for help with increasing my knowledge on existing topic I'm familiar with by joining in intern and hackathon<br>💬 Ask me about any queries you've regarding topic I specialize on<br>⚡ Coding can power up your brain 🧠
+🌱 I’m currently learning python, testing and plan to learn laravel <br>🤝 I’m looking for help with increasing my knowledge on existing topic I'm familiar with by joining in intern and hackathon<br>💬 Ask me about any queries you've regarding topic I specialize on<br>⚡ Fun fact: Coding can power up your brain 🧠
 
 
 # 💻 Tech Stack:
@@ -13,6 +13,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deadbody142&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
